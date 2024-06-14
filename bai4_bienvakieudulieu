@@ -1,0 +1,5 @@
+a = 131312031
+s = float(s)
+print(type(s))
+print(s)
+// lay vi du thoi
