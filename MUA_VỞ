@@ -1,0 +1,4 @@
+from math import *
+n , x = map(int,input().split())
+soluong = n // x 
+print('SO VO MUA DUOC LA :  ' , soluong , '!!!!!')
