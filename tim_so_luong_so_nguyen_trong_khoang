@@ -1,0 +1,7 @@
+from math import *
+x , y = map(int, input().split())
+if x > y :
+    print("khong ton tai gia tri nao thoa man ")
+else : 
+    res1= y-x+1
+    print("so luong so nguyen can tim la" , res1)
