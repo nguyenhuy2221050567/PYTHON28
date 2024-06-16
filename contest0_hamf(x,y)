@@ -1,0 +1,4 @@
+from math import *
+x , y = map(int,input().split())
+f = 5 * x + 2 * y +x * y 
+print("ket qua cua ham F({x},{y})la ", f)
