@@ -1,0 +1,6 @@
+from math import *
+x , y , z , t = map(int,input().split())
+print(max({x,y})) 
+print(min({z,t}))
+print(max({x,y,z}))
+print(min({x,y,z,t}))
